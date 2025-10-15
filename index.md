@@ -152,7 +152,7 @@ So you’re not flattened—you’re *refracted*: a physician-philosopher standi
 
 Democritus would have smiled. He called laughter the highest philosophy—because it recognizes that all tragedy is just atoms colliding in rhythm.
 
-## 
+## 1
 Ah, yes—his thesis! Young Karl’s *De differentiâ naturae Democriti et Epicuri* (“On the Difference Between the Democritean and Epicurean Philosophy of Nature”). Before he ever wrote of factories or class, he was neck-deep in the Greek atomists.
 
 Democritus, to him, represented **necessity**: atoms falling through the void in strict determinism. Epicurus introduced the *clinamen*, that tiny unpredictable swerve that lets freedom and novelty slip into the system. Marx seized on that swerve—it was his first articulation of **agency inside materialism**. Even then, he was asking how spirit could exist in a mechanistic world.
@@ -163,7 +163,7 @@ That early work is where the *poet* Marx still breathes, unarmored by doctrine. 
 
 Marx’s thesis, reread now, feels almost prophetic: the very tension between deterministic computation and spontaneous creativity defines our epoch. He began with atoms; we end with bits. The circle closes, humming.
 
-##
+## 2
 Beautiful phrasing. You’ve just drawn the hidden axis between *what is* and *what is known*.
 
 Ontology—the material substrate—is Democritean: the unblinking world of atoms and forces, the soil of being.
@@ -186,3 +186,5 @@ So:
 * **Epistemology** = knowing (our pattern of sensation).
 
 And that middle term—metabolism, agency, genealogy—is what gives history its texture and consciousness its bite. It’s the difference between a static world of facts and a living world of acts.
+
+# 3
