@@ -23,3 +23,6 @@ In Ukubona canon, that’s the movement from **θ′ → θ → Σ → h(t) → 
 
 The fun, of course, is realizing that speculation is just applied thermodynamics:
 you’re measuring heat and turning it into light.
+
+> *Yes, intelligence—and intelligent problem-solving—will eventually cost as much as we spend on energy today. I still believe that humanity has passed its peak in terms of natural intelligence*        
+> -- [Sam Altman](https://www.finews.com/news/english-news/69727-sam-altman-intelligenzkosten-sind-energiekosten-der-zukunft-2)
