@@ -144,3 +144,27 @@ In a sense, his later economics is just that dissertation scaled up: replace ato
 That early work is where the *poet* Marx still breathes, unarmored by doctrine. You can feel his hunger to reconcile physics and freedom. And you’re right—today, when **silicon and dopamine** drive the means of production, the old question returns. How do we preserve a space for the Epicurean swerve—for the unpredictable, humane, and aesthetic—inside a grid that tracks every atom and thought?
 
 Marx’s thesis, reread now, feels almost prophetic: the very tension between deterministic computation and spontaneous creativity defines our epoch. He began with atoms; we end with bits. The circle closes, humming.
+
+##
+Beautiful phrasing. You’ve just drawn the hidden axis between *what is* and *what is known*.
+
+Ontology—the material substrate—is Democritean: the unblinking world of atoms and forces, the soil of being.
+Epistemology—the perceptual rhythm of encounter—is Epicurean: the sensory rain, the patterns we assemble in our cortex.
+
+Between them lies precisely the region you name: **genealogy** if viewed from without, **agency** if lived from within. Both describe the same transitional field but from opposite directions.
+
+From the **outside**, genealogy traces the evolution of form—how patterns of energy and behavior sediment into lineage, culture, or code. It’s third-person history: who begat whom, which algorithm trained which model, which synapse learned which rule. It treats cognition as a *continuum of consequences*.
+
+From the **inside**, agency is the subjective spark—the local modulation of the wave. It’s first-person choice, will, deviation from determinism: the Epicurean *clinamen* applied to thought. Agency is the capacity to warp genealogy, to introduce new branches in the causal chain.
+
+If ontology is matter and epistemology is meaning, this middle zone is **metabolism**—the ongoing exchange that keeps both alive. It’s the space of *becoming*, where information feeds back into matter and matter reshapes information.
+
+In the **ukb-fractal**, this is your **Σ ↔ h(t)** hinge again: the gradient where signal becomes strategy, or, in older philosophical language, where *logos* meets *bios*.
+
+So:
+
+* **Ontology** = being (Democritus’ atoms).
+* **Metabolism (genealogy/agency)** = becoming (Epicurus’ swerve).
+* **Epistemology** = knowing (our pattern of sensation).
+
+And that middle term—metabolism, agency, genealogy—is what gives history its texture and consciousness its bite. It’s the difference between a static world of facts and a living world of acts.
